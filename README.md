@@ -18,7 +18,7 @@ Data analytics project to analyze customer  behavior and predict churn using mac
 ![Churn](images/churn_distribution.png)
 
 ### Tenure vs Churn
-![Tenure](images/tenure_vs_churn.png)
+![Tenure](images/Tenure_vs_churn.png)
 
 ### ROC Curve
 ![ROC](images/roc_curve.png)
