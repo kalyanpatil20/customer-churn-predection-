@@ -1,5 +1,5 @@
 # customer-churn-predection-
-Data analytics project to analyze customer  behavior and predict churn using machine learning tecniques
+Data analytics project to analyze customer behavior and predict churn using machine learning.
 ## Results
 - Accuracy: ~80%
 - ROC-AUC: ~0.69
