@@ -1,4 +1,4 @@
-# customer-churn-predection-
+# customer-churn-prediction
 Data analytics project to analyze customer behavior and predict churn using machine learning.
 ## Results
 - Accuracy: ~80%
